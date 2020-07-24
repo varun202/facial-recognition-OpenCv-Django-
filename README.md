@@ -19,6 +19,3 @@ Change mysql setting
 Run -
 
     python manage.py runserver --nothreading –noreload
-
-Demo Video
-https://www.youtube.com/watch?v=p70srlZvyvQ&feature=youtu.be
